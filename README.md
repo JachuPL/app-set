@@ -24,3 +24,4 @@ Każdy poziom wcięcia w liście oznacza zależność od elementu nadrzędnego. 
 * f.lux
 * Filezilla
 * Malwarebytes
+* Microsoft Office
