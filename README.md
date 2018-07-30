@@ -4,11 +4,20 @@ Każdy poziom wcięcia w liście oznacza zależność od elementu nadrzędnego. 
 * git
   * gitkraken
 * Postman
+* TeamSQL
 * Visual Studio 2017
   * Resharper
   * Postsharp 4.2.21
-* TeamSQL
 * Visual Studio Code
+  * johnpapa.angular2
+  * hookyqr.beautify
+  * coenraads.bracket-pair-colorizer
+  * ms-vscode.csharp
+  * msjsdiag.debugger-for-chrome
+  * christian-kohler.path-intellisense
+  * eg2.tslint
+  * ms-vsliveshare.vsliveshare
+  * robertohuertasm.vscode-icons
 
 ## Wirtualizacja
 * Hyper-V
@@ -21,7 +30,7 @@ Każdy poziom wcięcia w liście oznacza zależność od elementu nadrzędnego. 
 ## Inne
 * 7-zip
 * Dropbox
-* f.lux
+* f.lux/Redshift
 * Filezilla
-* Malwarebytes
-* Microsoft Office
+* Malwarebytes/ClamTk
+* Microsoft Office/LibreOffice
