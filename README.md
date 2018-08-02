@@ -18,6 +18,7 @@ Każdy poziom wcięcia w liście oznacza zależność od elementu nadrzędnego. 
   * eg2.tslint
   * ms-vsliveshare.vsliveshare
   * robertohuertasm.vscode-icons
+  * humao.rest-client
 
 ## Wirtualizacja
 * Hyper-V
