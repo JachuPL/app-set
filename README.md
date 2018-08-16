@@ -8,6 +8,7 @@ Każdy poziom wcięcia w liście oznacza zależność od elementu nadrzędnego. 
 * [Visual Studio 2017](https://visualstudio.microsoft.com/pl/downloads/)
   * [Resharper](https://www.jetbrains.com/resharper/)
   * [Postsharp 4.2.21](https://www.postsharp.net/downloads/postsharp-4.2/v4.2.21/PostSharp-4.2.21.exe)
+  * CodeMaid Spade
 * [Visual Studio Code](https://code.visualstudio.com/)
   * johnpapa.angular2
   * hookyqr.beautify
