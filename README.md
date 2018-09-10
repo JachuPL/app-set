@@ -20,6 +20,8 @@ Każdy poziom wcięcia w liście oznacza zależność od elementu nadrzędnego. 
   * ms-vsliveshare.vsliveshare
   * robertohuertasm.vscode-icons
   * humao.rest-client
+  * doggy8088.netcore-extension-pack
+  * temilaj.asp-net-core-vs-code-extension-pack
 
 ## Wirtualizacja
 * Hyper-V
