@@ -35,6 +35,6 @@ Każdy poziom wcięcia w liście oznacza zależność od elementu nadrzędnego. 
 * [7-zip](https://www.7-zip.org/)
 * [Dropbox](https://www.dropbox.com/install)
 * [f.lux](https://justgetflux.com/) / [Redshift](http://jonls.dk/redshift/)
-* ~~[Filezilla](https://filezilla-project.org/download.php?type=client)~~ [WinSCP](https://winscp.net/eng/docs/lang:pl)
+* ~~[Filezilla](https://filezilla-project.org/download.php?type=client)~~ [WinSCP](https://winscp.net/eng/docs/lang:pl) | [sFTP Client](https://www.sftpclient.io/eu)
 * [Malwarebytes](https://pl.malwarebytes.com/) / [ClamTk](https://sourceforge.net/projects/clamtk/)
 * [Microsoft Office](https://www.office.com/) / [LibreOffice](https://pl.libreoffice.org/)
