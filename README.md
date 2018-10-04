@@ -22,6 +22,9 @@ Każdy poziom wcięcia w liście oznacza zależność od elementu nadrzędnego. 
   * humao.rest-client
   * doggy8088.netcore-extension-pack
   * temilaj.asp-net-core-vs-code-extension-pack
+  * eamodio.gitlens
+  * peterjausovec.vscode-docker
+  * donjayamanne.githistory
 
 ## Wirtualizacja
 * Hyper-V
