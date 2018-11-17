@@ -25,6 +25,7 @@ Każdy poziom wcięcia w liście oznacza zależność od elementu nadrzędnego. 
   * eamodio.gitlens
   * peterjausovec.vscode-docker
   * donjayamanne.githistory
+  * yzhang.markdown-all-in-one
 
 ## Wirtualizacja
 * Hyper-V
