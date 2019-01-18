@@ -43,4 +43,4 @@ Każdy poziom wcięcia w liście oznacza zależność od elementu nadrzędnego. 
 * [Malwarebytes](https://pl.malwarebytes.com/) / [ClamTk](https://sourceforge.net/projects/clamtk/)
 * [Microsoft Office](https://www.office.com/) / [LibreOffice](https://pl.libreoffice.org/)
 * [Hyper](https://hyper.is/) `sudo update-alternatives --install /usr/bin/x-terminal-emulator x-terminal-emulator /opt/Hyper/hyper 50` konieczne do wpisania na linuksie
-* [Franz](https://meetfranz.com/) (schemat kolorów `#1E1E1E,#434745,#007ACC,#FFFFFF,#2D2D30,#FFFFFF,#99D04A,#D294E2`)
+* [Franz](https://meetfranz.com/) (schemat kolorów `#1E1E1E,#434745,#007ACC,#FFFFFF,#2D2D30,#FFFFFF,#99D04A,#D7AC6A`)
